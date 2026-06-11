@@ -1,0 +1,176 @@
+{
+  "titulo": "Catecismo da Igreja Católica",
+  "edicao": "Segunda Edição · 2865 parágrafos",
+  "partes": [
+    {
+      "numero": 1,
+      "titulo": "A Profissão da Fé",
+      "secoes": [
+        {
+          "numero": 1,
+          "titulo": "\"Eu Creio\" — \"Nós Cremos\"",
+          "capitulos": [
+            {
+              "numero": 1,
+              "titulo": "O Homem é \"Capaz\" de Deus",
+              "artigos": [
+                {
+                  "numero": 1,
+                  "titulo": "O desejo de Deus",
+                  "paragrafos": [
+                    {"numero": 27, "texto": "O desejo de Deus está inscrito no coração do homem, porque o homem foi criado por Deus e para Deus; Deus nunca cessa de atrair o homem para Si, e só em Deus o homem encontrará a verdade e a felicidade que não pára de procurar."},
+                    {"numero": 28, "texto": "De múltiplas maneiras, na sua história, e até hoje, os homens exprimem a sua busca de Deus por meio das suas crenças e comportamentos religiosos (orações, sacrifícios, cultos, meditações, etc.). Estas formas de expressão religiosa, apesar das suas ambiguidades, são tão universais que o homem pode ser chamado um ser religioso."},
+                    {"numero": 29, "texto": "Mas esta \"íntima e vital união com Deus\" pode ser esquecida, desconhecida e mesmo rejeitada expressamente pelo homem. Tais atitudes podem ter origens muito diversas: a revolta contra o mal no mundo, a ignorância ou a indiferença religiosas, os cuidados do mundo e das riquezas, o mau exemplo dos crentes, as correntes de pensamento hostis à religião, e, finalmente, aquela atitude do homem pecador que, por medo, se esconde de Deus e foge diante da sua chamada."}
+                  ]
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Os caminhos para chegar a Deus",
+                  "paragrafos": [
+                    {"numero": 31, "texto": "Criado à imagem de Deus, dotado de uma alma espiritual e imortal, o ser humano é o único ser em toda a criação visível que o seu Criador \"quis por Si mesmo\". Desde a sua concepção, é destinado à bem-aventurança eterna."},
+                    {"numero": 32, "texto": "O homem pode com as suas únicas forças naturais conhecer Deus com certeza. Mas há outro conhecimento que o homem não pode obter por si mesmo: o da Revelação divina."}
+                  ]
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titulo": "Deus vai ao Encontro do Homem",
+              "artigos": [
+                {
+                  "numero": 1,
+                  "titulo": "A Revelação de Deus",
+                  "paragrafos": [
+                    {"numero": 50, "texto": "Pela razão natural, o homem pode conhecer Deus com certeza a partir das obras. Mas existe uma outra ordem de conhecimento que o homem não pode de modo algum atingir pelas suas próprias forças: a da Revelação divina."},
+                    {"numero": 51, "texto": "Aprouve a Deus, na sua bondade e sabedoria, revelar-Se a Si mesmo e dar a conhecer o mistério da sua vontade: por Cristo, a Palavra feita carne, e no Espírito Santo, os homens podem aproximar-se do Pai e tornar-se participantes da natureza divina."}
+                  ]
+                },
+                {
+                  "numero": 2,
+                  "titulo": "A transmissão da Revelação divina",
+                  "paragrafos": [
+                    {"numero": 74, "texto": "Deus \"quer que todos os homens sejam salvos e cheguem ao conhecimento da verdade\" (1Tm 2, 4), isto é, de Jesus Cristo. É preciso, pois, que Cristo seja anunciado a todos os povos e a todas as gentes."},
+                    {"numero": 75, "texto": "\"Cristo Senhor, em quem se completa toda a Revelação do Deus altíssimo, mandou que os apóstolos pregassem a todos o Evangelho como a fonte de toda a verdade salvífica e de toda a ordenação moral.\""}
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "A Profissão da Fé Cristã",
+          "capitulos": [
+            {
+              "numero": 1,
+              "titulo": "Creio em Deus Pai",
+              "artigos": [
+                {
+                  "numero": 1,
+                  "titulo": "\"Creio em Deus Pai todo-poderoso, criador do céu e da terra\"",
+                  "paragrafos": [
+                    {"numero": 198, "texto": "A nossa profissão de fé começa por Deus, pois Deus é o «Primeiro e o Último», o começo e o fim de tudo."},
+                    {"numero": 199, "texto": "A palavra «creio» exprime o acto pessoal de adesão a Deus."},
+                    {"numero": 200, "texto": "Deus é único. Só existe um Deus: \"Escuta, Israel: o Senhor nosso Deus é o único Senhor\" (Dt 6, 4)."}
+                  ]
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titulo": "Creio em Jesus Cristo, Filho único de Deus",
+              "artigos": [
+                {
+                  "numero": 1,
+                  "titulo": "\"Jesus Cristo é o Filho único de Deus\"",
+                  "paragrafos": [
+                    {"numero": 242, "texto": "Jesus é o Filho de Deus em seu ser mesmo, não somente em sua função ou poder. Ele é verdadeiramente Deus."},
+                    {"numero": 243, "texto": "\"O Verbo se fez carne\" (Jo 1, 14). Cristo é verdadeiro Deus e verdadeiro homem, na unidade inseparável de uma única pessoa."}
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "A Celebração do Mistério Cristão",
+      "secoes": [
+        {
+          "numero": 1,
+          "titulo": "A Economia Sacramental",
+          "capitulos": [
+            {
+              "numero": 1,
+              "titulo": "A Liturgia na Economia da Salvação",
+              "artigos": [
+                {
+                  "numero": 1,
+                  "titulo": "A Liturgia — obra da Santíssima Trindade",
+                  "paragrafos": [
+                    {"numero": 1077, "texto": "\"Bendito seja Deus, Pai de Nosso Senhor Jesus Cristo, que nos abençoou com toda a espécie de bênçãos espirituais nos céus em Cristo\" (Ef 1, 3-14)."},
+                    {"numero": 1078, "texto": "Benzer é uma acção divina que dá vida e cujo fundamento é o agradecimento a Deus."}
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "A Vida em Cristo",
+      "secoes": [
+        {
+          "numero": 1,
+          "titulo": "A Vocação do Homem",
+          "capitulos": [
+            {
+              "numero": 1,
+              "titulo": "A Dignidade da Pessoa Humana",
+              "artigos": [
+                {
+                  "numero": 1,
+                  "titulo": "O homem, imagem de Deus",
+                  "paragrafos": [
+                    {"numero": 1700, "texto": "A dignidade da pessoa humana radica-se na sua criação à imagem e semelhança de Deus; ela realiza-se na sua vocação à beatitude divina."},
+                    {"numero": 1701, "texto": "\"Cristo, ao revelar o mistério do Pai e do Seu amor, revela também o homem a si mesmo e dá-lhe a conhecer a sua sublime vocação.\""}
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "A Oração Cristã",
+      "secoes": [
+        {
+          "numero": 1,
+          "titulo": "A Oração na Vida Cristã",
+          "capitulos": [
+            {
+              "numero": 1,
+              "titulo": "O que é a Oração",
+              "artigos": [
+                {
+                  "numero": 1,
+                  "titulo": "A oração como relação da Aliança",
+                  "paragrafos": [
+                    {"numero": 2558, "texto": "\"Grande é o mistério da fé!\". A Igreja professa este mistério na oração do Senhor que resume toda a liturgia."},
+                    {"numero": 2559, "texto": "\"A oração é a elevação da alma a Deus ou o pedido a Deus de bens convenientes.\""}
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
